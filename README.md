@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LadaFo
 - 👀 I’m interested in project management.
 - 🌱 I’m currently learning project management and trying to dive into web 3.0
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on interesting IT projects.
 - 📫 How to reach me - just write me here.
 
 <!---
